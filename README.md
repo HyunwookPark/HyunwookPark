@@ -17,7 +17,7 @@
 - Money & You 2019.01卒業
 - 倫理法人会堺市中区 2019.04入会
 
-## SNS
+## SNS・執筆
 
 - [Twitter](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
