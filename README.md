@@ -61,8 +61,8 @@
     - Java, Python, Javascript, TypeScript, C#, VB.NET, PHP, PL/SQL, VBA
 - FW/Library:
     - Struts, Jersey, Spring Boot, Spring Batch, Thymeleaf, doma
+    - SVF, JasperReports
     - Django
-    - SVF
     - Vue.js, jQuery
     - Docker
     - Bootstrap, Vuetify
