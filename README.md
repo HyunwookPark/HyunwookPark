@@ -1,10 +1,22 @@
 # 自己紹介
 
-|||
-|---|---|
-|名前|Hyunwook Park 朴 玄旭 박 현욱|
+## 名前
 
-### Hi there 👋
+- Hyunwook Park
+- 朴 玄旭
+- 박 현욱
+
+## SNS
+
+- https://twitter.com/pakhuncho
+- https://www.facebook.com/hyunwook.park.146
+- https://qiita.com/HyunwookPark
+- https://www.youtube.com/user/ppafe
+- https://www.instagram.com/pakhuncho/
+
+## 経歴
+
+- 
 
 <!--
 **HyunwookPark/HyunwookPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
