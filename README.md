@@ -61,7 +61,6 @@
     - SVF, JasperReports
     - Django
     - Vue.js, jQuery
-    - Docker
     - Bootstrap, Vuetify
 - Middle ware:
     - JP1, A-AUTO
@@ -72,6 +71,7 @@
 - Tools:
     - Eclipse, Visual Studio, IntelliJ, Pycharm, VisualStudioCode
     - Git, GitHub, GitLab
+    - Docker
 
 ## その他活動
 
