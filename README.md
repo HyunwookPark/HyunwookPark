@@ -20,6 +20,8 @@
 - [Youtube](https://www.youtube.com/user/ppafe)
 - [Instagram](https://www.instagram.com/pakhuncho/)
 
+![](img/parkhyunwook_twitter.png)
+
 # ❤ 職務経歴（ピックアップ）
 
 ## 開発
