@@ -14,7 +14,7 @@
 
 ## SNS・執筆
 
-- [[twitter](img/parkhyunwook_twitter.png)](https://twitter.com/pakhuncho)
+- ![[twitter](img/parkhyunwook_twitter.png)](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
 - [Qiita](https://qiita.com/HyunwookPark)
 - [Youtube](https://www.youtube.com/user/ppafe)
