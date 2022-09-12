@@ -16,9 +16,9 @@
 
 - [twitter](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
-- [Qiita](https://qiita.com/HyunwookPark)
 - [Youtube](https://www.youtube.com/user/ppafe)
 - [Instagram](https://www.instagram.com/pakhuncho/)
+- [Qiita](https://qiita.com/HyunwookPark)
 
 <img src="img/hyunwookpark_twitter.png" width="200"> <img src="img/hyunwookpark_facebook.png" width="200"> <img src="img/hyunwookpark_youtube.png" width="200"> <img src="img/hyunwookpark_instagram.png" width="200">
 
@@ -48,8 +48,7 @@
 
 2003年4月よりITエンジニアとしてシステム開発に従事しています。
 
-開発標準化チーム・共通部品チーム・基盤チームなど、
-技術寄りのチームの参画が多く他のエンジニアのサポート経験も多くあります。
+開発標準化チーム・共通部品チーム・基盤チームなどの技術寄りのチームの参画が多く、他のエンジニアのサポート経験も多くあります。
 エンドユーザーとのセッションにも参加しヒアリングから設定・開発・テスト・運用までの全工程を経験しています。
 チームリーダーとしてタスク・スケジュール管理もできます。
 
