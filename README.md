@@ -1,4 +1,4 @@
-# 自己紹介
+# ❤ 自己紹介
 
 - 名前: Hyunwook Park （朴 玄旭 / 박 현욱）
 - あだ名: ぱっくんちょ
@@ -14,15 +14,15 @@
 
 ## SNS・執筆
 
-- [Twitter](https://twitter.com/pakhuncho)
+- [[twitter](img/parkhyunwook_twitter.png)](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
 - [Qiita](https://qiita.com/HyunwookPark)
 - [Youtube](https://www.youtube.com/user/ppafe)
 - [Instagram](https://www.instagram.com/pakhuncho/)
 
-## 職務経歴（ピックアップ）
+# ❤ 職務経歴（ピックアップ）
 
-### 開発
+## 開発
 
 - 2020.03-2022.07 学校法人 教務システム（Python）
 - 2021.08-2022.05 住宅業 電子稟議システム（Python）
@@ -35,13 +35,13 @@
 - 2006.07-2007.03 家電メーカー 基幹システム（Java）
 - 2004.08-2006.06 建設業 基幹システム（Java）
 
-### 教育
+## 教育
 
 - 小・中学生向けプログラミング講師
 - プログラミングスクール（Java講師）
 - IT企業新人研修 （Java講師）
 
-### 備考
+## 備考
 
 2003年4月よりITエンジニアとしてシステム開発に従事しています。
 
@@ -73,7 +73,7 @@
     - Git, GitHub, GitLab
     - Docker
 
-## その他活動
+# ❤ その他活動
 
 - エンジニア・コミュニティ主催
 - Money and You 2019.01卒業
