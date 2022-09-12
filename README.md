@@ -21,6 +21,9 @@
 - [Instagram](https://www.instagram.com/pakhuncho/)
 
 ![](img/parkhyunwook_twitter.png)
+![](img/parkhyunwook_facebook.png)
+![](img/parkhyunwook_youtube.png)
+
 
 # ❤ 職務経歴（ピックアップ）
 
