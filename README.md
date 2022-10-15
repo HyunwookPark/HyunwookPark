@@ -8,11 +8,18 @@
 
 ソフトウェア企業3年勤務とフリーランスを2年経験し2008年起業しました。
 
+## 質問箱はじめました
+
+https://github.com/HyunwookPark/question-box
+
+- プログラミング、IT業界、エンジニアの働き方などわかる範囲でお答えします。
+- 個人的な質問も歓迎ですよ。
+
 ## 趣味
 
 バイク、サバゲ
 
-## SNS・執筆
+## SNS・執筆・配信
 
 - [twitter](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
