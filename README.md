@@ -20,7 +20,7 @@
 
 ## SNS・執筆・配信
 
-- [twitter](https://twitter.com/pakhuncho)
+- [X(twitter)](https://twitter.com/pakhuncho)
 - [Facebook](https://www.facebook.com/hyunwook.park.146)
 - [Youtube](https://www.youtube.com/user/ppafe)
 - [Qiita](https://qiita.com/HyunwookPark)
